@@ -1,0 +1,110 @@
+{
+  "Tim": {
+    "Est": [
+      "New York Knicks",
+      "Cleveland Cavaliers",
+      "Milwaukee Bucks",
+      "Orlando Magic",
+      "Atlanta Hawks",
+      "Detroit Pistons",
+      "Boston Celtics",
+      "Indiana Pacers",
+      "Philadelphia 76ers",
+      "Toronto Raptors",
+      "Miami Heat",     
+      "Chicago Bulls",
+      "Charlotte Hornets",
+      "Washington Wizards", 
+      "Brooklyn Nets"
+    ],
+    "Ouest": [
+      "Oklahoma City Thunder",
+      "Denver Nuggets",
+      "Houston Rockets",
+      "Los Angeles Lakers",
+      "LA Clippers",
+      "Golden State Warriors",
+      "Minnesota Timberwolves",
+      "San Antonio Spurs",  
+      "Dallas Mavericks",
+      "New Orleans Pelicans",
+      "Memphis Grizzlies",
+      "Portland Trail Blazers", 
+      "Sacramento Kings",
+      "Phoenix Suns",
+      "Utah Jazz"
+    ]
+  },
+  "Antoine": {
+    "Est": [
+      "Orlando Magic",
+      "Cleveland Cavaliers",
+      "New York Knicks",
+      "Milwaukee Bucks",
+      "Boston Celtics",
+      "Atlanta Hawks",
+      "Miami Heat",
+      "Detroit Pistons",
+      "Philadelphia 76ers",
+      "Chicago Bulls",
+      "Indiana Pacers",
+      "Charlotte Hornets",
+      "Washington Wizards", 
+      "Toronto Raptors",
+      "Brooklyn Nets"
+    ],
+    "Ouest": [
+      "Oklahoma City Thunder",
+      "Houston Rockets",
+      "Minnesota Timberwolves",
+      "Denver Nuggets",
+      "Los Angeles Lakers",
+      "Dallas Mavericks",
+      "Golden State Warriors",
+      "San Antonio Spurs",  
+      "LA Clippers",
+      "Phoenix Suns",
+      "Sacramento Kings",
+      "Memphis Grizzlies",
+      "Portland Trail Blazers", 
+      "New Orleans Pelicans",
+      "Utah Jazz"
+    ]
+  },
+  "Guillaume": {
+    "Est": [
+      "Cleveland Cavaliers",
+      "New York Knicks",
+      "Orlando Magic",
+      "Milwaukee Bucks",
+      "Detroit Pistons",
+      "Atlanta Hawks",
+      "Boston Celtics",
+      "Philadelphia 76ers",
+      "Toronto Raptors",
+      "Indiana Pacers",
+      "Miami Heat",    
+      "Brooklyn Nets",
+      "Charlotte Hornets",
+      "Washington Wizards",
+      "Chicago Bulls"
+    ],
+    "Ouest": [
+      "Oklahoma City Thunder",
+      "Houston Rockets",
+      "Denver Nuggets",
+      "Los Angeles Lakers",
+      "Golden State Warriors",
+      "Minnesota Timberwolves",
+      "LA Clippers",
+      "Dallas Mavericks",
+      "San Antonio Spurs",  
+      "New Orleans Pelicans",
+      "Memphis Grizzlies",
+      "Sacramento Kings",
+      "Phoenix Suns",
+      "Utah Jazz",
+      "Portland Trail Blazers"
+    ]
+  }
+}
